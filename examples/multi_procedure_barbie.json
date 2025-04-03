@@ -1,0 +1,137 @@
+{
+    "billing": {
+        "npi": "283193843",
+        "address": {
+            "city": "El Segundo",
+            "state": "CA",
+            "address1": "333 Continental Blvd",
+            "postalCode": "902452819"
+        },
+        "employerId": "0309195988",
+        "taxonomyCode": "193200000X",
+        "organizationName": "Mattel Industries",
+        "contactInformation": {
+            "name": "Ruth Handler",
+            "phoneNumber": "8458130000"
+        }
+    },
+    "ordering": {
+        "npi": "1528713450",
+        "lastName": "Roberts",
+        "firstName": "Dr. Barbara",
+        "employerId": "0309195988",
+        "taxonomyCode": "106S00000X",
+        "contactInformation": {
+            "name": "Dr. Barbara Roberts"
+        }
+    },
+    "receiver": {
+        "organizationName": "BARBIELAND MEDICAID"
+    },
+    "submitter": {
+        "organizationName": "Mattel Industries",
+        "contactInformation": {
+            "name": "Ruth Handler",
+            "phoneNumber": "8458130000"
+        }
+    },
+    "rendering": {
+        "npi": "4114293029",
+        "lastName": "Sherwood",
+        "firstName": "Allan",
+        "employerId": "0309195988",
+        "taxonomyCode": "106S00000X",
+        "contactInformation": {
+            "name": "Allan Sherwood"
+        },
+        "address": {
+            "city": "Barbie Land",
+            "state": "MA",
+            "address1": "3926 Turquoise Lane",
+            "postalCode": "845813000"
+        }
+    },
+    "subscriber": {
+        "gender": "M",
+        "address": {
+            "city": "Barbie Land",
+            "state": "MA",
+            "address1": "Mojo Dojo Casa House",
+            "postalCode": "000362919"
+        },
+        "lastName": "Carson",
+        "memberId": "063997341",
+        "firstName": "Kenneth",
+        "dateOfBirth": "20141021",
+        "paymentResponsibilityLevelCode": "P"
+    },
+    "controlNumber": "415133923",
+    "claimInformation": {
+        "serviceLines": [
+            {
+                "serviceDate": "20240101",
+                "professionalService": {
+                    "procedureCode": "97155",
+                    "measurementUnit": "UN",
+                    "serviceUnitCount": "8",
+                    "procedureIdentifier": "HC",
+                    "lineItemChargeAmount": "280.00",
+                    "compositeDiagnosisCodePointers": {
+                        "diagnosisCodePointers": [
+                            "1"
+                        ]
+                    }
+                },
+                "providerControlNumber": "142910769"
+            },
+            {
+                "serviceDate": "20240101",
+                "professionalService": {
+                    "procedureCode": "97153",
+                    "measurementUnit": "UN",
+                    "serviceUnitCount": "8",
+                    "procedureIdentifier": "HC",
+                    "lineItemChargeAmount": "320.00",
+                    "compositeDiagnosisCodePointers": {
+                        "diagnosisCodePointers": [
+                            "1"
+                        ]
+                    }
+                },
+                "providerControlNumber": "631702742"
+            }
+        ],
+        "claimFilingCode": "BL",
+        "claimChargeAmount": "600.00",
+        "claimFrequencyCode": "1",
+        "placeOfServiceCode": "12",
+        "signatureIndicator": "Y",
+        "patientControlNumber": "9336",
+        "planParticipationCode": "A",
+        "releaseInformationCode": "Y",
+        "serviceFacilityLocation": {
+            "npi": "1467520452",
+            "address": {
+                "city": "Barbie Land",
+                "state": "MA",
+                "address1": "Barbie Land General",
+                "address2": "Suite 1",
+                "postalCode": "845813000"
+            },
+            "phoneName": "Dr. Barbara Roberts",
+            "phoneNumber": "8458130000",
+            "organizationName": "Barbie Land General Childhood Development Center"
+        },
+        "healthCareCodeInformation": [
+            {
+                "diagnosisCode": "F840",
+                "diagnosisTypeCode": "ABK"
+            }
+        ],
+        "claimSupplementalInformation": {
+            "priorAuthorizationNumber": "UM54943349"
+        },
+        "benefitsAssignmentCertificationIndicator": "Y"
+    },
+    "tradingPartnerServiceId": "BARBIE"
+}
